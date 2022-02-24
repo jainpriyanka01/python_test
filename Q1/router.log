@@ -1,0 +1,943 @@
+2022-02-24 23:51:20,962 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:51:38,508 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:51:40,004 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:51:42,374 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:51:43,951 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:51:45,175 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:51:46,764 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:51:53,346 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:51:54,792 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:51:57,027 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:51:58,582 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:52:20,566 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:52:21,978 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:52:25,310 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:52:26,823 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:52:30,132 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:52:31,490 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:52:32,643 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:52:34,134 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:52:38,650 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:52:40,099 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:52:43,435 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:52:44,840 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:52:47,131 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:52:48,555 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:52:50,835 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:52:52,319 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:52:58,966 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:53:00,332 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:53:05,879 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:53:07,253 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:53:10,632 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:53:12,250 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:53:16,663 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:53:18,107 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:53:25,777 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:53:27,253 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:53:28,414 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:53:29,815 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:53:32,102 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:53:33,514 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:53:34,678 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:53:36,138 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:53:39,526 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:53:40,941 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:53:42,081 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:53:43,500 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:53:44,646 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:53:46,082 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:53:52,759 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:53:54,198 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:53:55,428 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:53:57,025 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:54:07,117 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:54:08,576 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:54:10,808 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:54:12,173 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:54:14,445 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:54:16,057 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:54:24,880 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:54:26,327 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:54:31,852 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:54:33,249 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:54:35,484 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:54:36,868 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:54:42,409 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:54:44,058 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:54:48,642 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:54:49,982 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:54:55,616 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:54:57,280 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:55:04,000 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:55:05,396 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:55:13,032 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:55:14,439 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:55:19,951 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:55:21,432 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:55:21,496 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:55:23,025 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:55:23,092 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:55:24,512 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:55:25,673 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:55:27,121 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:55:28,328 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:55:30,028 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:55:36,761 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:55:38,161 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:55:44,932 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:55:46,510 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:55:53,185 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:55:54,638 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:55:55,792 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:55:57,220 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:55:58,471 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:56:00,090 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:56:03,458 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:56:04,928 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:56:06,084 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:56:07,488 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:56:24,156 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:56:25,743 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:56:43,515 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:56:44,933 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:56:46,092 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:56:47,580 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:56:48,723 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:56:50,211 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:56:54,657 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:56:56,001 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:57:01,542 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:57:02,948 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:57:04,105 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:57:05,526 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:57:06,761 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:57:08,523 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:57:18,568 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:57:20,259 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:57:32,505 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:57:33,830 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:57:54,619 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:57:56,106 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:57:59,532 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:58:01,034 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:58:02,180 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:58:03,555 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:58:14,533 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:58:15,896 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:58:23,635 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:58:25,086 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:58:27,307 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:58:28,816 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:58:31,089 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:58:32,470 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:58:40,160 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:58:46,553 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:58:53,203 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:58:54,634 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:58:55,790 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:58:57,334 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:58:58,469 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:58:59,964 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:59:05,512 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:59:06,979 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:59:09,199 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:59:10,531 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:59:14,996 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:59:16,391 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:59:21,889 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:59:23,312 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:59:26,669 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:59:28,415 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:59:36,164 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:59:37,816 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:59:54,265 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:59:55,666 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:59:56,923 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-24 23:59:58,301 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-24 23:59:59,432 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:00:00,832 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:00:02,012 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:00:05,678 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:00:07,231 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:00:11,644 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:00:13,082 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:00:14,231 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:00:15,647 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:00:20,103 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:00:21,475 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:00:22,740 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:00:24,375 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:00:26,609 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:00:28,191 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:00:40,496 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:00:41,852 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:00:49,489 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:00:50,873 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:00:55,320 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:00:56,718 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:00:57,854 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:00:59,213 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:01:03,648 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:01:05,317 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:01:07,562 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:01:09,075 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:01:18,330 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:01:20,277 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:05:03,527 INFO MainThread :  * Restarting with stat
+2022-02-25 00:05:04,965 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:05:05,599 INFO Thread-4 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "GET /update_record HTTP/1.1" 200 -
+2022-02-25 00:05:05,628 INFO Thread-3 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,649 INFO Thread-5 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,653 INFO Thread-6 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,664 INFO Thread-8 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,666 INFO Thread-7 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,671 INFO Thread-9 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,673 INFO Thread-10 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,678 INFO Thread-11 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,683 INFO Thread-12 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,696 INFO Thread-13 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/js/jquery.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,709 INFO Thread-14 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,713 INFO Thread-15 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,718 INFO Thread-16 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,723 INFO Thread-17 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,726 INFO Thread-18 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,742 INFO Thread-19 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,757 INFO Thread-20 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,760 INFO Thread-21 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,766 INFO Thread-22 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,770 INFO Thread-23 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,779 INFO Thread-24 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,802 INFO Thread-25 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,803 INFO Thread-26 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,810 INFO Thread-27 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,831 INFO Thread-28 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,833 INFO Thread-29 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,839 INFO Thread-30 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,859 INFO Thread-31 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,859 INFO Thread-32 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,867 INFO Thread-33 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:05:05,920 INFO Thread-34 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[33mGET /images/down-arrow.png HTTP/1.1[0m" 404 -
+2022-02-25 00:05:05,927 INFO Thread-35 : 127.0.0.1 - - [25/Feb/2022 00:05:05] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:10:01,008 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:10:01,087 INFO MainThread :  * Restarting with stat
+2022-02-25 00:10:02,472 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:10:03,644 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:10:03,796 INFO MainThread :  * Restarting with stat
+2022-02-25 00:10:05,465 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:13:19,952 INFO Thread-3 : Executing token function
+2022-02-25 00:13:19,952 INFO Thread-3 : Generated token: b'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzI5OTk5fQ.C-uUZYczha_qAzQztiEVtm22OdrrLPZw5P2o6We2LvU'
+2022-02-25 00:13:19,953 INFO Thread-3 : 127.0.0.1 - - [25/Feb/2022 00:13:19] "GET /token HTTP/1.1" 200 -
+2022-02-25 00:13:36,664 INFO Thread-4 : Token received: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzI5OTk5fQ.C-uUZYczha_qAzQztiEVtm22OdrrLPZw5P2o6We2LvU
+2022-02-25 00:13:36,664 INFO Thread-4 : Token received{'public_id': 'test', 'exp': 1645729999}
+2022-02-25 00:13:36,664 INFO Thread-4 : Checking if x-access-token is passed in the header of request
+2022-02-25 00:13:36,668 INFO Thread-4 : Exception in create function: (sqlite3.IntegrityError) UNIQUE constraint failed: router_details.Loopback
+[SQL: INSERT INTO router_details ("Sapid", "Hostname", "Loopback", "Macaddress", status) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('sap01', 'Hostname', '192.168.0.3', '00:00:5e:00:53:af', 1)]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+2022-02-25 00:13:36,670 INFO Thread-4 : 127.0.0.1 - - [25/Feb/2022 00:13:36] "POST /api/create?sap_id=sap01&hostname=Hostname&loopback=192.168.0.3&macaddress=00:00:5e:00:53:af HTTP/1.1" 200 -
+2022-02-25 00:13:48,508 INFO Thread-5 : Token received: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzI5OTk5fQ.C-uUZYczha_qAzQztiEVtm22OdrrLPZw5P2o6We2LvU
+2022-02-25 00:13:48,509 INFO Thread-5 : Token received{'public_id': 'test', 'exp': 1645729999}
+2022-02-25 00:13:48,509 INFO Thread-5 : Checking if x-access-token is passed in the header of request
+2022-02-25 00:13:48,522 INFO Thread-5 : 127.0.0.1 - - [25/Feb/2022 00:13:48] "POST /api/create?sap_id=sap01&hostname=Hostname&loopback=192.168.0.7&macaddress=00:00:5e:00:53:af HTTP/1.1" 200 -
+2022-02-25 00:14:04,703 INFO Thread-6 : Token received: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzI5OTk5fQ.C-uUZYczha_qAzQztiEVtm22OdrrLPZw5P2o6We2LvU
+2022-02-25 00:14:04,703 INFO Thread-6 : Token received{'public_id': 'test', 'exp': 1645729999}
+2022-02-25 00:14:04,704 INFO Thread-6 : Checking if x-access-token is passed in the header of request
+2022-02-25 00:14:04,722 INFO Thread-6 : 127.0.0.1 - - [25/Feb/2022 00:14:04] "PUT /api/update_record/192.168.0.3?sap_id=hostn HTTP/1.1" 200 -
+2022-02-25 00:14:13,930 INFO Thread-7 : Token received: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzI5OTk5fQ.C-uUZYczha_qAzQztiEVtm22OdrrLPZw5P2o6We2LvU
+2022-02-25 00:14:13,930 INFO Thread-7 : Token received{'public_id': 'test', 'exp': 1645729999}
+2022-02-25 00:14:13,930 INFO Thread-7 : Checking if x-access-token is passed in the header of request
+2022-02-25 00:14:13,934 INFO Thread-7 : 127.0.0.1 - - [25/Feb/2022 00:14:13] "GET /api/all_routers HTTP/1.1" 200 -
+2022-02-25 00:14:21,254 INFO Thread-8 : Token received: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzI5OTk5fQ.C-uUZYczha_qAzQztiEVtm22OdrrLPZw5P2o6We2LvU
+2022-02-25 00:14:21,254 INFO Thread-8 : Token received{'public_id': 'test', 'exp': 1645729999}
+2022-02-25 00:14:21,258 INFO Thread-8 : 127.0.0.1 - - [25/Feb/2022 00:14:21] "[35m[1mDELETE /api/delete_record/loop2 HTTP/1.1[0m" 204 -
+2022-02-25 00:14:28,459 INFO Thread-9 : Token received: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzI5OTk5fQ.C-uUZYczha_qAzQztiEVtm22OdrrLPZw5P2o6We2LvU
+2022-02-25 00:14:28,460 INFO Thread-9 : Token received{'public_id': 'test', 'exp': 1645729999}
+2022-02-25 00:14:28,466 INFO Thread-9 : 127.0.0.1 - - [25/Feb/2022 00:14:28] "GET /api/get/192.168.0.0/192.168.0.4 HTTP/1.1" 200 -
+2022-02-25 00:24:18,377 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:24:18,467 INFO MainThread :  * Restarting with stat
+2022-02-25 00:24:20,133 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:24:24,584 INFO MainThread :  * Detected change in 'C:\\Users\\eipijra\\Desktop\\CISCO\\Q1\\main.py', reloading
+2022-02-25 00:24:24,688 INFO MainThread :  * Restarting with stat
+2022-02-25 00:24:25,970 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:34:48,979 INFO MainThread :  * Restarting with stat
+2022-02-25 00:34:50,843 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:34:52,966 INFO Thread-3 : 127.0.0.1 - - [25/Feb/2022 00:34:52] "GET / HTTP/1.1" 200 -
+2022-02-25 00:34:53,012 INFO Thread-4 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,032 INFO Thread-5 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,034 INFO Thread-6 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,044 INFO Thread-8 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,049 INFO Thread-7 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,051 INFO Thread-9 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,058 INFO Thread-10 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,062 INFO Thread-11 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,071 INFO Thread-12 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,085 INFO Thread-13 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,094 INFO Thread-14 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,100 INFO Thread-15 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,103 INFO Thread-16 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,110 INFO Thread-17 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,118 INFO Thread-18 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,120 INFO Thread-19 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,132 INFO Thread-20 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,141 INFO Thread-21 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,149 INFO Thread-22 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,156 INFO Thread-23 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,163 INFO Thread-24 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,165 INFO Thread-25 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,169 INFO Thread-26 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,185 INFO Thread-27 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,208 INFO Thread-29 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,211 INFO Thread-28 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,217 INFO Thread-30 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,219 INFO Thread-31 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,225 INFO Thread-32 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,230 INFO Thread-33 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:53,727 INFO Thread-34 : 127.0.0.1 - - [25/Feb/2022 00:34:53] "[33mGET /images/down-arrow.png HTTP/1.1[0m" 404 -
+2022-02-25 00:34:57,407 INFO Thread-35 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "GET /create_record HTTP/1.1" 200 -
+2022-02-25 00:34:57,451 INFO Thread-36 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,488 INFO Thread-37 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,489 INFO Thread-38 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,490 INFO Thread-39 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,491 INFO Thread-40 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,492 INFO Thread-41 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,493 INFO Thread-42 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,508 INFO Thread-43 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,510 INFO Thread-44 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,518 INFO Thread-45 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/js/jquery.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,519 INFO Thread-46 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,527 INFO Thread-47 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,533 INFO Thread-48 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,542 INFO Thread-49 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,546 INFO Thread-50 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,550 INFO Thread-51 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,555 INFO Thread-52 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,570 INFO Thread-53 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,575 INFO Thread-54 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,580 INFO Thread-55 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,593 INFO Thread-56 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,610 INFO Thread-58 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,613 INFO Thread-57 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,623 INFO Thread-59 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,634 INFO Thread-60 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,639 INFO Thread-61 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,661 INFO Thread-62 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,670 INFO Thread-63 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,681 INFO Thread-64 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,693 INFO Thread-65 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:34:57,695 INFO Thread-66 : 127.0.0.1 - - [25/Feb/2022 00:34:57] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:28,081 INFO MainThread :  * Restarting with stat
+2022-02-25 00:35:29,695 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:35:29,897 INFO Thread-3 : 127.0.0.1 - - [25/Feb/2022 00:35:29] "GET /create_record HTTP/1.1" 200 -
+2022-02-25 00:35:29,939 INFO Thread-4 : 127.0.0.1 - - [25/Feb/2022 00:35:29] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:29,960 INFO Thread-5 : 127.0.0.1 - - [25/Feb/2022 00:35:29] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:29,961 INFO Thread-6 : 127.0.0.1 - - [25/Feb/2022 00:35:29] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:29,971 INFO Thread-7 : 127.0.0.1 - - [25/Feb/2022 00:35:29] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:29,976 INFO Thread-8 : 127.0.0.1 - - [25/Feb/2022 00:35:29] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:29,978 INFO Thread-9 : 127.0.0.1 - - [25/Feb/2022 00:35:29] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:29,985 INFO Thread-10 : 127.0.0.1 - - [25/Feb/2022 00:35:29] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:29,994 INFO Thread-11 : 127.0.0.1 - - [25/Feb/2022 00:35:29] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:29,998 INFO Thread-12 : 127.0.0.1 - - [25/Feb/2022 00:35:29] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,007 INFO Thread-13 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/js/jquery.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,018 INFO Thread-14 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,020 INFO Thread-15 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,027 INFO Thread-16 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,030 INFO Thread-17 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,043 INFO Thread-18 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,054 INFO Thread-19 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,060 INFO Thread-20 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,062 INFO Thread-21 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,068 INFO Thread-22 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,079 INFO Thread-23 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,092 INFO Thread-24 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,094 INFO Thread-25 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,110 INFO Thread-26 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,111 INFO Thread-27 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,118 INFO Thread-28 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,138 INFO Thread-29 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,141 INFO Thread-30 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,154 INFO Thread-31 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,157 INFO Thread-32 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,171 INFO Thread-33 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:35:30,179 INFO Thread-34 : 127.0.0.1 - - [25/Feb/2022 00:35:30] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:35:37,870 INFO Thread-35 : Executing token function
+2022-02-25 00:35:37,871 INFO Thread-35 : Generated token: b'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzMxMzM3fQ.D-sWU8-BwSvdHT4vLtbC-jlBBSc3bYF3muvaiz8RD_c'
+2022-02-25 00:35:37,872 INFO Thread-35 : 127.0.0.1 - - [25/Feb/2022 00:35:37] "POST /token HTTP/1.1" 200 -
+2022-02-25 00:35:37,882 INFO Thread-36 : Token received: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzMxMzM3fQ.D-sWU8-BwSvdHT4vLtbC-jlBBSc3bYF3muvaiz8RD_c
+2022-02-25 00:35:37,883 INFO Thread-36 : Token received{'public_id': 'test', 'exp': 1645731337}
+2022-02-25 00:35:37,883 INFO Thread-36 : Checking if x-access-token is passed in the header of request
+2022-02-25 00:35:37,896 INFO Thread-36 : 127.0.0.1 - - [25/Feb/2022 00:35:37] "POST /api/create?sap_id=&hostname=&loopback=&macaddress=&callback=jQuery33103757322335752198_1645729530126 HTTP/1.1" 200 -
+2022-02-25 00:35:41,524 INFO Thread-37 : 127.0.0.1 - - [25/Feb/2022 00:35:41] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:41,524 INFO Thread-38 : 127.0.0.1 - - [25/Feb/2022 00:35:41] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:41,528 INFO Thread-39 : 127.0.0.1 - - [25/Feb/2022 00:35:41] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:41,535 INFO Thread-40 : 127.0.0.1 - - [25/Feb/2022 00:35:41] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:41,535 INFO Thread-41 : 127.0.0.1 - - [25/Feb/2022 00:35:41] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:41,535 INFO Thread-42 : 127.0.0.1 - - [25/Feb/2022 00:35:41] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:41,535 INFO Thread-43 : 127.0.0.1 - - [25/Feb/2022 00:35:41] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:41,554 INFO Thread-44 : 127.0.0.1 - - [25/Feb/2022 00:35:41] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:41,554 INFO Thread-45 : 127.0.0.1 - - [25/Feb/2022 00:35:41] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:35:41,903 INFO Thread-46 : 127.0.0.1 - - [25/Feb/2022 00:35:41] "[33mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js.map HTTP/1.1[0m" 404 -
+2022-02-25 00:35:41,919 INFO Thread-47 : 127.0.0.1 - - [25/Feb/2022 00:35:41] "GET /static/assets/js/pdfmake.min.js.map HTTP/1.1" 200 -
+2022-02-25 00:35:41,978 INFO Thread-48 : 127.0.0.1 - - [25/Feb/2022 00:35:41] "GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2022-02-25 00:40:10,845 INFO Thread-49 : Executing token function
+2022-02-25 00:40:10,845 INFO Thread-49 : Generated token: b'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzMxNjEwfQ.rr5ih47VUlm_Lbo531HVefKN_VIOnqfq7QK1RfVRSmk'
+2022-02-25 00:40:10,845 INFO Thread-49 : 127.0.0.1 - - [25/Feb/2022 00:40:10] "POST /token HTTP/1.1" 200 -
+2022-02-25 00:40:10,857 INFO Thread-50 : Token received: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzMxNjEwfQ.rr5ih47VUlm_Lbo531HVefKN_VIOnqfq7QK1RfVRSmk
+2022-02-25 00:40:10,858 INFO Thread-50 : Token received{'public_id': 'test', 'exp': 1645731610}
+2022-02-25 00:40:10,858 INFO Thread-50 : Checking if x-access-token is passed in the header of request
+2022-02-25 00:40:10,873 INFO Thread-50 : 127.0.0.1 - - [25/Feb/2022 00:40:10] "POST /api/create?sap_id=yutyu&hostname=yut&loopback=tyu&macaddress=ttut&callback=jQuery33103757322335752198_1645729530126 HTTP/1.1" 200 -
+2022-02-25 00:40:13,797 INFO Thread-51 : 127.0.0.1 - - [25/Feb/2022 00:40:13] "GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2022-02-25 00:40:13,917 INFO Thread-52 : 127.0.0.1 - - [25/Feb/2022 00:40:13] "[33mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js.map HTTP/1.1[0m" 404 -
+2022-02-25 00:40:13,926 INFO Thread-53 : 127.0.0.1 - - [25/Feb/2022 00:40:13] "GET /static/assets/js/pdfmake.min.js.map HTTP/1.1" 200 -
+2022-02-25 00:41:34,602 INFO MainThread :  * Restarting with stat
+2022-02-25 00:41:36,582 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:41:36,707 INFO Thread-3 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "GET /create_record HTTP/1.1" 200 -
+2022-02-25 00:41:36,751 INFO Thread-4 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,785 INFO Thread-5 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,800 INFO Thread-6 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,815 INFO Thread-7 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,820 INFO Thread-8 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,830 INFO Thread-9 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,842 INFO Thread-10 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,845 INFO Thread-11 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,861 INFO Thread-12 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,867 INFO Thread-13 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/js/jquery.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,872 INFO Thread-14 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,880 INFO Thread-15 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,892 INFO Thread-16 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,913 INFO Thread-18 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,920 INFO Thread-17 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,923 INFO Thread-19 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,935 INFO Thread-20 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,949 INFO Thread-21 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,964 INFO Thread-22 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,969 INFO Thread-23 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,972 INFO Thread-24 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,983 INFO Thread-25 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,984 INFO Thread-26 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:36,999 INFO Thread-27 : 127.0.0.1 - - [25/Feb/2022 00:41:36] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:37,001 INFO Thread-28 : 127.0.0.1 - - [25/Feb/2022 00:41:37] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:37,017 INFO Thread-29 : 127.0.0.1 - - [25/Feb/2022 00:41:37] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:37,020 INFO Thread-30 : 127.0.0.1 - - [25/Feb/2022 00:41:37] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:37,032 INFO Thread-31 : 127.0.0.1 - - [25/Feb/2022 00:41:37] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:37,053 INFO Thread-32 : 127.0.0.1 - - [25/Feb/2022 00:41:37] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:41:37,117 INFO Thread-33 : 127.0.0.1 - - [25/Feb/2022 00:41:37] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:41:37,192 INFO Thread-34 : 127.0.0.1 - - [25/Feb/2022 00:41:37] "GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+2022-02-25 00:41:37,630 INFO Thread-36 : 127.0.0.1 - - [25/Feb/2022 00:41:37] "[33mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js.map HTTP/1.1[0m" 404 -
+2022-02-25 00:41:37,630 INFO Thread-35 : 127.0.0.1 - - [25/Feb/2022 00:41:37] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:41:37,650 INFO Thread-37 : 127.0.0.1 - - [25/Feb/2022 00:41:37] "GET /static/assets/js/pdfmake.min.js.map HTTP/1.1" 200 -
+2022-02-25 00:41:48,954 INFO Thread-38 : Executing token function
+2022-02-25 00:41:48,955 INFO Thread-38 : Generated token: b'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzMxNzA4fQ.pilVaLc_E6_-kn0TCjEZo6FB90QSFztLEC_FrFx6piM'
+2022-02-25 00:41:48,955 INFO Thread-38 : 127.0.0.1 - - [25/Feb/2022 00:41:48] "POST /token HTTP/1.1" 200 -
+2022-02-25 00:41:48,973 INFO Thread-39 : Token received: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzMxNzA4fQ.pilVaLc_E6_-kn0TCjEZo6FB90QSFztLEC_FrFx6piM
+2022-02-25 00:41:48,976 INFO Thread-39 : Token received{'public_id': 'test', 'exp': 1645731708}
+2022-02-25 00:41:48,977 INFO Thread-39 : Checking if x-access-token is passed in the header of request
+2022-02-25 00:41:48,995 INFO Thread-39 : 127.0.0.1 - - [25/Feb/2022 00:41:48] "POST /api/create?sap_id=sap001&hostname=host001&loopback=192.168.1.1&macaddress= HTTP/1.1" 200 -
+2022-02-25 00:44:11,047 INFO MainThread :  * Restarting with stat
+2022-02-25 00:44:12,605 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:44:13,792 INFO Thread-3 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "GET /create_record HTTP/1.1" 200 -
+2022-02-25 00:44:13,832 INFO Thread-4 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,848 INFO Thread-5 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,853 INFO Thread-6 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,857 INFO Thread-7 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,858 INFO Thread-8 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,858 INFO Thread-9 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,862 INFO Thread-10 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,867 INFO Thread-11 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,880 INFO Thread-12 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,890 INFO Thread-13 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/js/jquery.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,898 INFO Thread-14 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,910 INFO Thread-15 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,912 INFO Thread-16 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,929 INFO Thread-17 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,942 INFO Thread-18 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,954 INFO Thread-19 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,956 INFO Thread-20 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,970 INFO Thread-21 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,972 INFO Thread-22 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,987 INFO Thread-23 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:13,994 INFO Thread-24 : 127.0.0.1 - - [25/Feb/2022 00:44:13] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:14,005 INFO Thread-25 : 127.0.0.1 - - [25/Feb/2022 00:44:14] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:44:14,025 INFO Thread-26 : 127.0.0.1 - - [25/Feb/2022 00:44:14] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:14,026 INFO Thread-27 : 127.0.0.1 - - [25/Feb/2022 00:44:14] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:14,029 INFO Thread-28 : 127.0.0.1 - - [25/Feb/2022 00:44:14] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:14,033 INFO Thread-29 : 127.0.0.1 - - [25/Feb/2022 00:44:14] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:14,037 INFO Thread-30 : 127.0.0.1 - - [25/Feb/2022 00:44:14] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:14,039 INFO Thread-31 : 127.0.0.1 - - [25/Feb/2022 00:44:14] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:14,047 INFO Thread-32 : 127.0.0.1 - - [25/Feb/2022 00:44:14] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:14,059 INFO Thread-33 : 127.0.0.1 - - [25/Feb/2022 00:44:14] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:44:14,064 INFO Thread-34 : 127.0.0.1 - - [25/Feb/2022 00:44:14] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:44:24,946 INFO Thread-35 : Executing token function
+2022-02-25 00:44:24,947 INFO Thread-35 : Generated token: b'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzMxODY0fQ.dXbqfTgv4neKN3EN-Ez-Sh4-7-REs-wWcvUhQa1tPow'
+2022-02-25 00:44:24,947 INFO Thread-35 : 127.0.0.1 - - [25/Feb/2022 00:44:24] "POST /token HTTP/1.1" 200 -
+2022-02-25 00:44:24,958 INFO Thread-36 : Token received: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzMxODY0fQ.dXbqfTgv4neKN3EN-Ez-Sh4-7-REs-wWcvUhQa1tPow
+2022-02-25 00:44:24,958 INFO Thread-36 : Token received{'public_id': 'test', 'exp': 1645731864}
+2022-02-25 00:44:24,959 INFO Thread-36 : Checking if x-access-token is passed in the header of request
+2022-02-25 00:44:24,976 INFO Thread-36 : 127.0.0.1 - - [25/Feb/2022 00:44:24] "POST /api/create?sap_id=sap002&hostname=host002&loopback=192.168.1.18&macaddress=m:13 HTTP/1.1" 200 -
+2022-02-25 00:45:42,592 INFO MainThread :  * Restarting with stat
+2022-02-25 00:45:44,114 INFO Thread-2 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-25 00:45:45,704 INFO Thread-3 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "GET /update_record HTTP/1.1" 200 -
+2022-02-25 00:45:45,742 INFO Thread-4 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,767 INFO Thread-5 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,768 INFO Thread-6 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,777 INFO Thread-7 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,785 INFO Thread-10 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,785 INFO Thread-8 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,786 INFO Thread-9 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,791 INFO Thread-11 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,794 INFO Thread-12 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,800 INFO Thread-13 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/js/jquery.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,811 INFO Thread-14 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,823 INFO Thread-15 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,825 INFO Thread-16 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,833 INFO Thread-17 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,846 INFO Thread-18 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,857 INFO Thread-19 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,864 INFO Thread-20 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,872 INFO Thread-21 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,882 INFO Thread-22 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,899 INFO Thread-23 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,900 INFO Thread-24 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,918 INFO Thread-25 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,940 INFO Thread-26 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,944 INFO Thread-27 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,952 INFO Thread-28 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,958 INFO Thread-29 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,980 INFO Thread-30 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:45,982 INFO Thread-31 : 127.0.0.1 - - [25/Feb/2022 00:45:45] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:46,008 INFO Thread-33 : 127.0.0.1 - - [25/Feb/2022 00:45:46] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:46,010 INFO Thread-32 : 127.0.0.1 - - [25/Feb/2022 00:45:46] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:45:46,023 INFO Thread-34 : 127.0.0.1 - - [25/Feb/2022 00:45:46] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:46,029 INFO Thread-35 : 127.0.0.1 - - [25/Feb/2022 00:45:46] "[33mGET /images/down-arrow.png HTTP/1.1[0m" 404 -
+2022-02-25 00:45:50,145 INFO Thread-36 : Executing token function
+2022-02-25 00:45:50,145 INFO Thread-36 : Generated token: b'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzMxOTUwfQ.B7jRfL7BVXwTu4b2hKSaD7VK0Goc7pDbra2r84op1us'
+2022-02-25 00:45:50,145 INFO Thread-36 : 127.0.0.1 - - [25/Feb/2022 00:45:50] "POST /token HTTP/1.1" 200 -
+2022-02-25 00:45:50,155 INFO Thread-37 : Token received: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzMxOTUwfQ.B7jRfL7BVXwTu4b2hKSaD7VK0Goc7pDbra2r84op1us
+2022-02-25 00:45:50,156 INFO Thread-37 : Token received{'public_id': 'test', 'exp': 1645731950}
+2022-02-25 00:45:50,157 INFO Thread-37 : Checking if x-access-token is passed in the header of request
+2022-02-25 00:45:50,176 INFO Thread-37 : 127.0.0.1 - - [25/Feb/2022 00:45:50] "PUT /api/update_record/192.168.0.4?sap_id=asas&hostname=&loopback=192.168.0.4&macaddress= HTTP/1.1" 200 -
+2022-02-25 00:45:51,887 INFO Thread-38 : 127.0.0.1 - - [25/Feb/2022 00:45:51] "GET / HTTP/1.1" 200 -
+2022-02-25 00:45:51,934 INFO Thread-39 : 127.0.0.1 - - [25/Feb/2022 00:45:51] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:51,953 INFO Thread-40 : 127.0.0.1 - - [25/Feb/2022 00:45:51] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:51,968 INFO Thread-41 : 127.0.0.1 - - [25/Feb/2022 00:45:51] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:51,990 INFO Thread-42 : 127.0.0.1 - - [25/Feb/2022 00:45:51] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:51,993 INFO Thread-43 : 127.0.0.1 - - [25/Feb/2022 00:45:51] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:51,993 INFO Thread-44 : 127.0.0.1 - - [25/Feb/2022 00:45:51] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:51,994 INFO Thread-45 : 127.0.0.1 - - [25/Feb/2022 00:45:51] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,000 INFO Thread-46 : 127.0.0.1 - - [25/Feb/2022 00:45:51] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,002 INFO Thread-47 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,014 INFO Thread-48 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,033 INFO Thread-49 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,038 INFO Thread-50 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,046 INFO Thread-51 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,067 INFO Thread-52 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,070 INFO Thread-53 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,084 INFO Thread-54 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,104 INFO Thread-55 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,127 INFO Thread-56 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,135 INFO Thread-57 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,143 INFO Thread-58 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,157 INFO Thread-59 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,174 INFO Thread-60 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,178 INFO Thread-61 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,181 INFO Thread-62 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,209 INFO Thread-63 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,221 INFO Thread-64 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,226 INFO Thread-65 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,236 INFO Thread-66 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,250 INFO Thread-67 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,253 INFO Thread-68 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:45:52,468 INFO Thread-69 : 127.0.0.1 - - [25/Feb/2022 00:45:52] "[33mGET /images/down-arrow.png HTTP/1.1[0m" 404 -
+2022-02-25 00:46:26,814 INFO Thread-70 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "GET /create_record HTTP/1.1" 200 -
+2022-02-25 00:46:26,859 INFO Thread-71 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:46:26,874 INFO Thread-72 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:46:26,879 INFO Thread-73 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:46:26,891 INFO Thread-74 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:46:26,893 INFO Thread-75 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:46:26,899 INFO Thread-76 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:46:26,904 INFO Thread-77 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:46:26,907 INFO Thread-78 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:46:26,922 INFO Thread-79 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:46:26,926 INFO Thread-80 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "[36mGET /static/assets/js/jquery.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:26,936 INFO Thread-81 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:26,950 INFO Thread-82 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:26,957 INFO Thread-83 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:26,959 INFO Thread-84 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:26,971 INFO Thread-85 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:26,979 INFO Thread-86 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:26,992 INFO Thread-87 : 127.0.0.1 - - [25/Feb/2022 00:46:26] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:27,001 INFO Thread-88 : 127.0.0.1 - - [25/Feb/2022 00:46:27] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:27,003 INFO Thread-89 : 127.0.0.1 - - [25/Feb/2022 00:46:27] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:27,009 INFO Thread-90 : 127.0.0.1 - - [25/Feb/2022 00:46:27] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:27,026 INFO Thread-91 : 127.0.0.1 - - [25/Feb/2022 00:46:27] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:27,033 INFO Thread-92 : 127.0.0.1 - - [25/Feb/2022 00:46:27] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:27,048 INFO Thread-93 : 127.0.0.1 - - [25/Feb/2022 00:46:27] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:46:27,050 INFO Thread-94 : 127.0.0.1 - - [25/Feb/2022 00:46:27] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:27,058 INFO Thread-95 : 127.0.0.1 - - [25/Feb/2022 00:46:27] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:27,068 INFO Thread-96 : 127.0.0.1 - - [25/Feb/2022 00:46:27] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:27,071 INFO Thread-97 : 127.0.0.1 - - [25/Feb/2022 00:46:27] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:27,093 INFO Thread-98 : 127.0.0.1 - - [25/Feb/2022 00:46:27] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:27,103 INFO Thread-99 : 127.0.0.1 - - [25/Feb/2022 00:46:27] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:27,103 INFO Thread-100 : 127.0.0.1 - - [25/Feb/2022 00:46:27] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:46:27,121 INFO Thread-101 : 127.0.0.1 - - [25/Feb/2022 00:46:27] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,327 INFO Thread-102 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "GET / HTTP/1.1" 200 -
+2022-02-25 00:48:52,408 INFO Thread-103 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,434 INFO Thread-104 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,447 INFO Thread-105 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,449 INFO Thread-106 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,459 INFO Thread-107 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,464 INFO Thread-108 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,476 INFO Thread-109 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,490 INFO Thread-110 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,492 INFO Thread-111 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,530 INFO Thread-112 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,539 INFO Thread-113 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,546 INFO Thread-114 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,547 INFO Thread-115 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,553 INFO Thread-116 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,556 INFO Thread-117 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,563 INFO Thread-118 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,583 INFO Thread-119 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,590 INFO Thread-120 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,601 INFO Thread-121 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,611 INFO Thread-122 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,617 INFO Thread-123 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,619 INFO Thread-124 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,630 INFO Thread-125 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,643 INFO Thread-126 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,652 INFO Thread-127 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,676 INFO Thread-128 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,683 INFO Thread-129 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:52,686 INFO Thread-130 : 127.0.0.1 - - [25/Feb/2022 00:48:52] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,070 INFO Thread-132 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,070 INFO Thread-131 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,129 INFO Thread-133 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,130 INFO Thread-135 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,131 INFO Thread-134 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,132 INFO Thread-136 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,133 INFO Thread-137 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,136 INFO Thread-138 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,169 INFO Thread-139 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,193 INFO Thread-140 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,201 INFO Thread-141 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,209 INFO Thread-142 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,217 INFO Thread-143 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,229 INFO Thread-144 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,240 INFO Thread-145 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,254 INFO Thread-146 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,265 INFO Thread-147 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,288 INFO Thread-148 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,302 INFO Thread-149 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,367 INFO Thread-150 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,407 INFO Thread-151 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:48:53,826 INFO Thread-152 : 127.0.0.1 - - [25/Feb/2022 00:48:53] "[33mGET /images/down-arrow.png HTTP/1.1[0m" 404 -
+2022-02-25 00:49:14,503 INFO Thread-153 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "GET /create_record HTTP/1.1" 200 -
+2022-02-25 00:49:14,590 INFO Thread-154 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,602 INFO Thread-155 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,617 INFO Thread-156 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,626 INFO Thread-157 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,639 INFO Thread-158 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,640 INFO Thread-159 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,650 INFO Thread-160 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,662 INFO Thread-161 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,667 INFO Thread-162 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,689 INFO Thread-163 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/js/jquery.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,705 INFO Thread-164 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,712 INFO Thread-165 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,728 INFO Thread-166 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,747 INFO Thread-167 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,756 INFO Thread-168 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,764 INFO Thread-169 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,772 INFO Thread-170 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,801 INFO Thread-171 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,812 INFO Thread-172 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,830 INFO Thread-173 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,867 INFO Thread-174 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,888 INFO Thread-175 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,910 INFO Thread-176 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,928 INFO Thread-177 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,933 INFO Thread-178 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,946 INFO Thread-179 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,979 INFO Thread-180 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:14,990 INFO Thread-181 : 127.0.0.1 - - [25/Feb/2022 00:49:14] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:15,011 INFO Thread-182 : 127.0.0.1 - - [25/Feb/2022 00:49:15] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:49:15,016 INFO Thread-183 : 127.0.0.1 - - [25/Feb/2022 00:49:15] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:15,161 INFO Thread-184 : 127.0.0.1 - - [25/Feb/2022 00:49:15] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:49:39,269 INFO Thread-185 : Executing token function
+2022-02-25 00:49:39,269 INFO Thread-185 : Generated token: b'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzMyMTc5fQ.8xuEcM2rLTLP2rAJMQ4RSWgnlPUiXRmRWqcUG44JobM'
+2022-02-25 00:49:39,270 INFO Thread-185 : 127.0.0.1 - - [25/Feb/2022 00:49:39] "POST /token HTTP/1.1" 200 -
+2022-02-25 00:49:39,289 INFO Thread-186 : Token received: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzMyMTc5fQ.8xuEcM2rLTLP2rAJMQ4RSWgnlPUiXRmRWqcUG44JobM
+2022-02-25 00:49:39,290 INFO Thread-186 : Token received{'public_id': 'test', 'exp': 1645732179}
+2022-02-25 00:49:39,290 INFO Thread-186 : Checking if x-access-token is passed in the header of request
+2022-02-25 00:49:39,312 INFO Thread-186 : 127.0.0.1 - - [25/Feb/2022 00:49:39] "POST /api/create?sap_id=sao08&hostname=host08&loopback=192.1.6.7&macaddress=s:s278:w HTTP/1.1" 200 -
+2022-02-25 00:49:40,986 INFO Thread-187 : 127.0.0.1 - - [25/Feb/2022 00:49:40] "GET / HTTP/1.1" 200 -
+2022-02-25 00:49:41,128 INFO Thread-188 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,207 INFO Thread-189 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,208 INFO Thread-191 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,216 INFO Thread-192 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,216 INFO Thread-193 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,217 INFO Thread-190 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,223 INFO Thread-194 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,255 INFO Thread-195 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,281 INFO Thread-196 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,286 INFO Thread-197 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,296 INFO Thread-198 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,306 INFO Thread-199 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,321 INFO Thread-200 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,336 INFO Thread-201 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,428 INFO Thread-202 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,466 INFO Thread-203 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,490 INFO Thread-204 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,506 INFO Thread-205 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,517 INFO Thread-206 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,549 INFO Thread-207 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,575 INFO Thread-208 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,592 INFO Thread-209 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,623 INFO Thread-210 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,627 INFO Thread-211 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,632 INFO Thread-212 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,641 INFO Thread-213 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,653 INFO Thread-214 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,662 INFO Thread-215 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,666 INFO Thread-216 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,673 INFO Thread-217 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:41,995 INFO Thread-218 : 127.0.0.1 - - [25/Feb/2022 00:49:41] "[33mGET /images/down-arrow.png HTTP/1.1[0m" 404 -
+2022-02-25 00:49:51,887 INFO Thread-219 : 127.0.0.1 - - [25/Feb/2022 00:49:51] "GET /update_record HTTP/1.1" 200 -
+2022-02-25 00:49:51,937 INFO Thread-220 : 127.0.0.1 - - [25/Feb/2022 00:49:51] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:51,970 INFO Thread-221 : 127.0.0.1 - - [25/Feb/2022 00:49:51] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:51,982 INFO Thread-222 : 127.0.0.1 - - [25/Feb/2022 00:49:51] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:51,989 INFO Thread-223 : 127.0.0.1 - - [25/Feb/2022 00:49:51] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,006 INFO Thread-224 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,041 INFO Thread-225 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,050 INFO Thread-226 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,052 INFO Thread-227 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,064 INFO Thread-228 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,078 INFO Thread-229 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/js/jquery.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,103 INFO Thread-230 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,122 INFO Thread-231 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,156 INFO Thread-232 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,167 INFO Thread-233 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,173 INFO Thread-234 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,177 INFO Thread-235 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,187 INFO Thread-236 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,193 INFO Thread-237 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,210 INFO Thread-238 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,257 INFO Thread-239 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,261 INFO Thread-240 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,268 INFO Thread-241 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,270 INFO Thread-242 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,290 INFO Thread-243 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,301 INFO Thread-244 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,315 INFO Thread-245 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,336 INFO Thread-246 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,348 INFO Thread-247 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,361 INFO Thread-248 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,368 INFO Thread-249 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:49:52,412 INFO Thread-250 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[33mGET /images/down-arrow.png HTTP/1.1[0m" 404 -
+2022-02-25 00:49:52,418 INFO Thread-251 : 127.0.0.1 - - [25/Feb/2022 00:49:52] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:50:07,461 INFO Thread-252 : 127.0.0.1 - - [25/Feb/2022 00:50:07] "GET / HTTP/1.1" 200 -
+2022-02-25 00:50:07,557 INFO Thread-253 : 127.0.0.1 - - [25/Feb/2022 00:50:07] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:07,587 INFO Thread-254 : 127.0.0.1 - - [25/Feb/2022 00:50:07] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:07,776 INFO Thread-255 : 127.0.0.1 - - [25/Feb/2022 00:50:07] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:07,778 INFO Thread-256 : 127.0.0.1 - - [25/Feb/2022 00:50:07] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:07,898 INFO Thread-257 : 127.0.0.1 - - [25/Feb/2022 00:50:07] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:07,922 INFO Thread-258 : 127.0.0.1 - - [25/Feb/2022 00:50:07] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:07,968 INFO Thread-259 : 127.0.0.1 - - [25/Feb/2022 00:50:07] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:07,981 INFO Thread-260 : 127.0.0.1 - - [25/Feb/2022 00:50:07] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:07,999 INFO Thread-261 : 127.0.0.1 - - [25/Feb/2022 00:50:07] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,063 INFO Thread-262 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,112 INFO Thread-263 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,135 INFO Thread-264 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,249 INFO Thread-265 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,335 INFO Thread-266 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,337 INFO Thread-267 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,363 INFO Thread-268 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,371 INFO Thread-269 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,421 INFO Thread-270 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,446 INFO Thread-271 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,452 INFO Thread-272 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,463 INFO Thread-273 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,493 INFO Thread-274 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,512 INFO Thread-275 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,519 INFO Thread-276 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,533 INFO Thread-277 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,546 INFO Thread-278 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,637 INFO Thread-279 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,640 INFO Thread-280 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,733 INFO Thread-281 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:50:08,746 INFO Thread-282 : 127.0.0.1 - - [25/Feb/2022 00:50:08] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:50:09,113 INFO Thread-283 : 127.0.0.1 - - [25/Feb/2022 00:50:09] "[33mGET /images/down-arrow.png HTTP/1.1[0m" 404 -
+2022-02-25 00:50:16,029 INFO Thread-284 : Executing token function
+2022-02-25 00:50:16,030 INFO Thread-284 : Generated token: b'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzMyMjE2fQ.IExnQ9FtlkEYunC_jDgTLPH3KnmAw3xDIQmuM7vjnEc'
+2022-02-25 00:50:16,030 INFO Thread-284 : 127.0.0.1 - - [25/Feb/2022 00:50:16] "POST /token HTTP/1.1" 200 -
+2022-02-25 00:50:16,052 INFO Thread-285 : Token received: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzMyMjE2fQ.IExnQ9FtlkEYunC_jDgTLPH3KnmAw3xDIQmuM7vjnEc
+2022-02-25 00:50:16,053 INFO Thread-285 : Token received{'public_id': 'test', 'exp': 1645732216}
+2022-02-25 00:50:16,054 INFO Thread-285 : Checking if x-access-token is passed in the header of request
+2022-02-25 00:50:16,071 INFO Thread-285 : 127.0.0.1 - - [25/Feb/2022 00:50:16] "PUT /api/update_record/192.168.0.3?sap_id=sap12&hostname=&loopback=192.168.0.3&macaddress= HTTP/1.1" 200 -
+2022-02-25 00:50:17,151 INFO Thread-286 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "GET / HTTP/1.1" 200 -
+2022-02-25 00:50:17,250 INFO Thread-287 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,317 INFO Thread-288 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,368 INFO Thread-289 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,394 INFO Thread-290 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,409 INFO Thread-291 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,414 INFO Thread-292 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,422 INFO Thread-293 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,438 INFO Thread-294 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,484 INFO Thread-295 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,489 INFO Thread-296 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,508 INFO Thread-297 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,513 INFO Thread-298 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,525 INFO Thread-299 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,531 INFO Thread-300 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,541 INFO Thread-301 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,551 INFO Thread-302 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,577 INFO Thread-303 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,602 INFO Thread-304 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,611 INFO Thread-305 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,626 INFO Thread-306 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,647 INFO Thread-307 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,662 INFO Thread-308 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,686 INFO Thread-309 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,688 INFO Thread-310 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,703 INFO Thread-311 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,720 INFO Thread-312 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,742 INFO Thread-313 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,747 INFO Thread-314 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,756 INFO Thread-315 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:50:17,769 INFO Thread-316 : 127.0.0.1 - - [25/Feb/2022 00:50:17] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:50:18,234 INFO Thread-317 : 127.0.0.1 - - [25/Feb/2022 00:50:18] "[33mGET /images/down-arrow.png HTTP/1.1[0m" 404 -
+2022-02-25 00:50:25,859 INFO Thread-318 : 127.0.0.1 - - [25/Feb/2022 00:50:25] "GET /delete_record HTTP/1.1" 200 -
+2022-02-25 00:50:25,907 INFO Thread-319 : 127.0.0.1 - - [25/Feb/2022 00:50:25] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:25,925 INFO Thread-320 : 127.0.0.1 - - [25/Feb/2022 00:50:25] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:25,963 INFO Thread-321 : 127.0.0.1 - - [25/Feb/2022 00:50:25] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:25,983 INFO Thread-322 : 127.0.0.1 - - [25/Feb/2022 00:50:25] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,005 INFO Thread-323 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,029 INFO Thread-324 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,055 INFO Thread-325 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,116 INFO Thread-326 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,136 INFO Thread-327 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,160 INFO Thread-328 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/js/jquery.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,183 INFO Thread-329 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,282 INFO Thread-330 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,305 INFO Thread-331 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,315 INFO Thread-332 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,322 INFO Thread-333 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,389 INFO Thread-334 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,409 INFO Thread-335 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,423 INFO Thread-336 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,432 INFO Thread-337 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,451 INFO Thread-338 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,462 INFO Thread-339 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,472 INFO Thread-340 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,479 INFO Thread-341 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,501 INFO Thread-342 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,527 INFO Thread-344 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,547 INFO Thread-343 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,548 INFO Thread-345 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,625 INFO Thread-346 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,635 INFO Thread-347 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,640 INFO Thread-348 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,648 INFO Thread-349 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:26,655 INFO Thread-350 : 127.0.0.1 - - [25/Feb/2022 00:50:26] "[33mGET /images/down-arrow.png HTTP/1.1[0m" 404 -
+2022-02-25 00:50:30,954 INFO Thread-351 : Executing token function
+2022-02-25 00:50:30,955 INFO Thread-351 : Generated token: b'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzMyMjMwfQ.UlOSyVEM0REfRRnVUuLcFc6kBA0wv1q4zj4G3zY7msc'
+2022-02-25 00:50:30,955 INFO Thread-351 : 127.0.0.1 - - [25/Feb/2022 00:50:30] "POST /token HTTP/1.1" 200 -
+2022-02-25 00:50:30,972 INFO Thread-352 : Token received: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiJ0ZXN0IiwiZXhwIjoxNjQ1NzMyMjMwfQ.UlOSyVEM0REfRRnVUuLcFc6kBA0wv1q4zj4G3zY7msc
+2022-02-25 00:50:30,972 INFO Thread-352 : Token received{'public_id': 'test', 'exp': 1645732230}
+2022-02-25 00:50:30,986 INFO Thread-352 : 127.0.0.1 - - [25/Feb/2022 00:50:30] "[35m[1mDELETE /api/delete_record/jkhjh HTTP/1.1[0m" 204 -
+2022-02-25 00:50:32,106 INFO Thread-353 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "GET / HTTP/1.1" 200 -
+2022-02-25 00:50:32,170 INFO Thread-354 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,261 INFO Thread-355 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,312 INFO Thread-356 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,350 INFO Thread-357 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,377 INFO Thread-358 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,421 INFO Thread-359 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,425 INFO Thread-360 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,435 INFO Thread-361 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,448 INFO Thread-362 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,474 INFO Thread-363 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,486 INFO Thread-364 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,490 INFO Thread-365 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,542 INFO Thread-366 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,544 INFO Thread-367 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,547 INFO Thread-368 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,609 INFO Thread-369 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,645 INFO Thread-371 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,646 INFO Thread-370 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,652 INFO Thread-372 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,672 INFO Thread-373 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,725 INFO Thread-374 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,781 INFO Thread-375 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,800 INFO Thread-376 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,809 INFO Thread-377 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,829 INFO Thread-378 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,834 INFO Thread-379 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,848 INFO Thread-380 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,853 INFO Thread-381 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,879 INFO Thread-382 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:32,884 INFO Thread-383 : 127.0.0.1 - - [25/Feb/2022 00:50:32] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:33,125 INFO Thread-384 : 127.0.0.1 - - [25/Feb/2022 00:50:33] "[33mGET /images/down-arrow.png HTTP/1.1[0m" 404 -
+2022-02-25 00:50:39,928 INFO Thread-385 : 127.0.0.1 - - [25/Feb/2022 00:50:39] "GET / HTTP/1.1" 200 -
+2022-02-25 00:50:40,007 INFO Thread-386 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,027 INFO Thread-387 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,028 INFO Thread-388 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,031 INFO Thread-389 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,032 INFO Thread-390 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,034 INFO Thread-391 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,046 INFO Thread-392 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,070 INFO Thread-393 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,081 INFO Thread-394 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,149 INFO Thread-396 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,149 INFO Thread-395 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,159 INFO Thread-397 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,186 INFO Thread-399 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,191 INFO Thread-398 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,195 INFO Thread-400 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,202 INFO Thread-401 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,220 INFO Thread-402 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,242 INFO Thread-403 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,253 INFO Thread-404 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,271 INFO Thread-405 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,296 INFO Thread-406 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,318 INFO Thread-407 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,341 INFO Thread-408 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,347 INFO Thread-409 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,367 INFO Thread-410 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,394 INFO Thread-411 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,400 INFO Thread-412 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,409 INFO Thread-413 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,440 INFO Thread-414 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,449 INFO Thread-415 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:40,915 INFO Thread-416 : 127.0.0.1 - - [25/Feb/2022 00:50:40] "[33mGET /images/down-arrow.png HTTP/1.1[0m" 404 -
+2022-02-25 00:50:55,770 INFO Thread-417 : 127.0.0.1 - - [25/Feb/2022 00:50:55] "GET / HTTP/1.1" 200 -
+2022-02-25 00:50:55,839 INFO Thread-418 : 127.0.0.1 - - [25/Feb/2022 00:50:55] "[36mGET /static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:55,881 INFO Thread-419 : 127.0.0.1 - - [25/Feb/2022 00:50:55] "[36mGET /static/assets/css/select2.min.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:55,907 INFO Thread-420 : 127.0.0.1 - - [25/Feb/2022 00:50:55] "[36mGET /static/assets/vendor/fonts/circular-std/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:55,917 INFO Thread-421 : 127.0.0.1 - - [25/Feb/2022 00:50:55] "[36mGET /static/assets/libs/css/style.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:55,931 INFO Thread-422 : 127.0.0.1 - - [25/Feb/2022 00:50:55] "[36mGET /static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:55,932 INFO Thread-423 : 127.0.0.1 - - [25/Feb/2022 00:50:55] "[36mGET /static/assets/vendor/datatables/css/dataTables.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:55,952 INFO Thread-425 : 127.0.0.1 - - [25/Feb/2022 00:50:55] "[36mGET /static/assets/vendor/datatables/css/select.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:55,953 INFO Thread-424 : 127.0.0.1 - - [25/Feb/2022 00:50:55] "[36mGET /static/assets/vendor/datatables/css/buttons.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:55,964 INFO Thread-426 : 127.0.0.1 - - [25/Feb/2022 00:50:55] "[36mGET /static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css HTTP/1.1[0m" 304 -
+2022-02-25 00:50:55,973 INFO Thread-427 : 127.0.0.1 - - [25/Feb/2022 00:50:55] "[36mGET /static/assets/vendor/jquery/jquery-3.3.1.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:55,998 INFO Thread-428 : 127.0.0.1 - - [25/Feb/2022 00:50:55] "[36mGET /static/assets/vendor/bootstrap/js/bootstrap.bundle.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,014 INFO Thread-429 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/vendor/slimscroll/jquery.slimscroll.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,026 INFO Thread-430 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/vendor/multi-select/js/jquery.multi-select.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,059 INFO Thread-431 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/libs/js/main-js.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,068 INFO Thread-432 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/js/jquery.dataTables.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,090 INFO Thread-433 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/js/dataTables.buttons.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,105 INFO Thread-434 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/vendor/datatables/js/buttons.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,108 INFO Thread-435 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,118 INFO Thread-436 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/js/jszip.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,157 INFO Thread-437 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/js/pdfmake.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,187 INFO Thread-438 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/js/vfs_fonts.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,212 INFO Thread-439 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/js/buttons.html5.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,249 INFO Thread-440 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/js/buttons.print.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,269 INFO Thread-441 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/js/buttons.colVis.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,277 INFO Thread-442 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/js/dataTables.rowGroup.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,291 INFO Thread-443 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/js/dataTables.select.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,297 INFO Thread-444 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/js/dataTables.fixedHeader.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,323 INFO Thread-445 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/js/select2.min.js HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,335 INFO Thread-446 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Book.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,338 INFO Thread-447 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[36mGET /static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff HTTP/1.1[0m" 304 -
+2022-02-25 00:50:56,661 INFO Thread-448 : 127.0.0.1 - - [25/Feb/2022 00:50:56] "[33mGET /images/down-arrow.png HTTP/1.1[0m" 404 -

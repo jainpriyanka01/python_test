@@ -1,0 +1,190 @@
+{
+	"info": {
+		"_postman_id": "0299e510-33a9-442a-a93c-a1c319c5094e",
+		"name": "Routers",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "create_new_router",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{x-access-token}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/create?sap_id=sap01&hostname=Hostname&loopback=192.168.0.3&macaddress=00:00:5e:00:53:af",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"create"
+					],
+					"query": [
+						{
+							"key": "sap_id",
+							"value": "sap01"
+						},
+						{
+							"key": "hostname",
+							"value": "Hostname"
+						},
+						{
+							"key": "loopback",
+							"value": "192.168.0.3"
+						},
+						{
+							"key": "macaddress",
+							"value": "00:00:5e:00:53:af"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "update_router",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"sap_id\": \"updateds1212p\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/update_record/loop3",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"update_record",
+						"loop3"
+					],
+					"query": [
+						{
+							"key": "hostname",
+							"value": "host",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get_all_routers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/all_routers",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"all_routers"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "delete_routers",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/delete_record/loop3",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"delete_record",
+						"loop3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get_details_within_range",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/get/192.168.0.0/192.168.0.2",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"get",
+						"192.168.0.0",
+						"192.168.0.2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get_token",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/token",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"token"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

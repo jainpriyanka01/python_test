@@ -1,0 +1,100 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+
+<html lang="en">
+ 
+       <head>
+           <meta charset="utf-8">
+           <meta http-equiv="X-UA-Compatible" content="IE=edge">
+           <meta name="viewport" content="width=device-width, initial-scale=1">
+           <meta name="description" content="">
+           <meta name="author" content="">
+       
+           <title>Delete Router Details </title>
+       
+       
+           <script src="static/assets/js/jquery.js"> </script> 
+       <style>
+              .others {
+    color:black
+}
+       </style>
+       </head>
+       
+       <body>
+       
+           <div class="container">
+       
+               <form method="post" role="form">
+                   <h2 >Delete Router Details </h2>
+
+                   <select name = "loopback" id = "loopback" class="form-control">
+                     <option value="" class="others">Please Select LoopBack</option>
+                            {% for i in record %}
+                            
+                             <option >{{i.Loopback}}</option>
+                             {% endfor %}
+                 </select><br>
+                   <button class="btn btn-lg btn-primary btn-block" type="button">Delete </button>
+                   
+               </form>
+            
+           </div>
+         
+       </body>
+<script>
+       var token = null; 
+
+       function apiToken(retString){
+       token = retString;
+
+       callApi(token);
+       }
+
+       function callApi(token){
+
+              var loopback=$('#loopback option:selected').val();
+
+              
+              $.ajax({
+              type: 'DELETE',
+              dataType:"json",
+              url: 'http://127.0.0.1:5000/api/delete_record/'+loopback,
+              headers:{         
+              'x-access-token' : token
+              },
+              success: function (data, status, xhr) {
+                     alert("Record Deleted Successfully!");
+                     window.location.href = "{{ url_for('index') }}";
+
+              },
+              error: function(error) {
+                     alert(error);
+              }
+              });
+
+       }
+
+       $(function() {
+              $('button').click(function() {
+                     $.ajax({
+                     url: '/token',
+                     data: $('form').serialize(),
+                     type: 'POST',
+                     success: function(response) { 
+                     apiToken(response); 
+                     },
+                     error: function(error) {
+                            alert(error);
+                     }
+                     });
+              });
+       });
+
+</script>
+       </html>
+
+{% endblock %}
+

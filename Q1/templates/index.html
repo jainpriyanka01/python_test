@@ -1,0 +1,93 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h1>{% block title %} Routers {% endblock %}</h1>
+
+
+<div class="card-body">
+  <div class="table-responsive">
+
+    <table id="report" class="table table-striped table-bordered second" style="width:100%">
+
+      <thead>
+        <tr>
+          <th>SAP ID</th>
+          <th>Hostname</th>
+          <th>LoopBack IP</th>
+          <th>Macaddress</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for records in all_records %}
+          <tr>
+
+            <td>{{ records['Sapid'] }}</td>
+            <td>{{ records['Hostname'] }}</td>
+            <td>{{ records['Loopback'] }}</td>
+            <td>{{ records['Macaddress'] }}</td>
+
+          {% endfor %}
+
+      </tbody>
+      <tfoot>
+        <tr>
+          <th>SAP ID</th>
+          <th>Hostname</th>
+          <th>LoopBack IP</th>
+          <th>Macaddress</th>
+
+        </tr>
+      </tfoot>
+
+    </table>
+  </div>
+</div>
+
+
+
+<script>
+  $(document).ready(function () {
+    $('#report thead tr').clone(true).appendTo('#report thead');
+    $('#report').DataTable({
+      "bInfo": true,
+      paging: true,
+
+      lengthMenu: [[10, 25, 50, -1], [10, 25, 50, "All"]],
+      dom: 'lfrBtip',
+
+
+      buttons: [{ extend: 'excel', text: 'Download' }, 'colvis'],
+
+      initComplete: function () {
+        this.api().columns().every(function () {
+          var column = this;
+          //added class "mymsel"
+          var select = $('<select class="mymsel" multiple="multiple"><option value=""></option></select>')
+            .appendTo($(column.header()).empty())
+            .on('change', function () {
+              var vals = $('option:selected', this).map(function (index, element) {
+                return $.fn.dataTable.util.escapeRegex($(element).val());
+              }).toArray().join('|');
+
+              column
+                .search(vals.length > 0 ? '^(' + vals + ')$' : '', true, false)
+                .draw();
+            });
+
+          column.data().unique().sort().each(function (d, j) {
+            select.append('<option value="' + d + '">' + d + '</option>')
+          });
+        });
+        $(".mymsel").select2();
+      }
+    });
+  });
+
+</script>
+
+
+
+
+
+{% endblock %}

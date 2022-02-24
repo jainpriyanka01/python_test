@@ -1,0 +1,100 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+
+<html lang="en">
+
+<head>
+       <meta charset="utf-8">
+       <meta http-equiv="X-UA-Compatible" content="IE=edge">
+       <meta name="viewport" content="width=device-width, initial-scale=1">
+       <meta name="description" content="">
+       <meta name="author" content="">
+
+       <title>Create Router Record </title>
+
+       
+       <script src="{{ url_for('static', filename='assets/js/jquery.js')}}"> </script>
+
+</head>
+
+<body>
+
+       <div class="container">
+
+              <form class="form-signin" method="post" role="form">
+                     <h2 class="form-signin-heading">Add New Router Details </h2>
+                     <input type="text" name="sap_id" id="sap_id" class="form-control" placeholder="SAP ID" required
+                            autofocus><br>
+                     <input type="text" name="hostname" id="hostname" class="form-control" placeholder="Hostname"
+                            required><br>
+                     <input type="text" name="loopback" id="loopback" class="form-control" placeholder="LoopBack IP"
+                            required><br>
+                     <input type="text" name="macaddress" id="macaddress" class="form-control" placeholder="macaddress"
+                            required><br>
+
+                     <button class="btn btn-lg btn-primary btn-block" type="button">Create </button>
+              </form>
+
+       </div>
+
+</body>
+<script>
+       var token = null;
+
+       function apiToken(retString) {
+              token = retString;
+              callApi(token);
+       }
+
+       function callApi(token) {
+              var sap_id = document.getElementById('sap_id').value;
+              var hostname = document.getElementById('hostname').value;
+              var loopback = document.getElementById('loopback').value;
+              var macaddress = document.getElementById('macaddress').value;
+
+
+              $.ajax({
+                     type: 'POST',
+                     dataType: "json",
+                     url: 'http://127.0.0.1:5000/api/create?sap_id=' + sap_id + '&hostname=' + hostname + '&loopback=' + loopback + '&macaddress=' + macaddress,
+                     headers: {
+                            'x-access-token': token
+                     },
+                     success: function (data, status, xhr) {
+                            alert("Record Added Successfully!");
+                            window.location.href = "{{ url_for('index') }}";
+
+                     },
+                     error: function(error) {
+                            alert(error);
+                     }
+              });
+
+       }
+
+       $(function () {
+              $('button').click(function () {
+                     var sap_id = document.getElementById('sap_id').value;
+                     $.ajax({
+                            url: '/token',
+                            data: $('form').serialize(),
+                            type: 'POST',
+                            success: function (response) {
+                                   apiToken(response);
+                            },
+                            error: function (error) {
+                                   console.log(error);
+                            }
+                     });
+              });
+       });
+
+
+
+</script>
+
+</html>
+
+{% endblock %}
